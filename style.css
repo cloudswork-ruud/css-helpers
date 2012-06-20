@@ -100,3 +100,17 @@
 .image_block .image_block_content{display:table-cell}
 
 .image_border{border: 1px solid #E8DDBB;padding:2px}
+
+.equidistant{
+  width:100%;
+  display: table;
+}
+
+.equidistant ul{
+  display: table-row;
+}
+
+.equidistant ul li{
+  display: table-cell;
+  text-align:center;
+}
