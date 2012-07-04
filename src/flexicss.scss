@@ -1,0 +1,286 @@
+.container {
+  /** set your own **/ }
+
+.container1024 {
+  width: 1024px; }
+
+.container960 {
+  width: 960px; }
+
+.container720 {
+  width: 720px; }
+
+.container, .container1024, .container960, .container720 {
+  margin-left: auto;
+  margin-right: auto; }
+
+.left5, .left10, .left15, .left20, .left25, .left30, .left35, .left40, .left45, .left50, .left55, .left60, .left65, .left70, .left75, .left80, .left85, .left90, .left95, .left33, .left66 {
+  float: left; }
+
+.right5, .right10, .right15, .right20, .right25, .right30, .right35, .right40, .right45, .right50, .right55, .right60, .right65, .right70, .right75, .right80, .right85, .right90, .right95, .right33, .right66 {
+  float: right; }
+
+.left5, .right5 {
+  width: 3%; }
+
+.left10, .right10 {
+  width: 8%; }
+
+.left15, .right15 {
+  width: 13%; }
+
+.left20, .right20 {
+  width: 18%; }
+
+.left25, .right25 {
+  width: 23%; }
+
+.left30, .right30 {
+  width: 28%; }
+
+.left35, .right35 {
+  width: 33%; }
+
+.left40, .right40 {
+  width: 38%; }
+
+.left45, .right45 {
+  width: 43%; }
+
+.left50, .right50 {
+  width: 48%; }
+
+.left55, .right55 {
+  width: 53%; }
+
+.left60, .right60 {
+  width: 58%; }
+
+.left65, .right65 {
+  width: 63%; }
+
+.left70, .right70 {
+  width: 68%; }
+
+.left75, .right75 {
+  width: 73%; }
+
+.left80, .right80 {
+  width: 78%; }
+
+.left85, .right85 {
+  width: 83%; }
+
+.left90, .right90 {
+  width: 88%; }
+
+.left95, .right95 {
+  width: 93%; }
+
+.left33, .right33 {
+  width: 31.33%; }
+
+.left66, .right66 {
+  width: 64.66%; }
+
+.left5, .left10, .left15, .left20, .left25, .left30, .left35, .left40, .left45, .left50, .left55, .left60, .left65, .left70, .left75, .left80, .left85, .left90, .left95, .left33, .left66, .right5, .right10, .right15, .right20, .right25, .right30, .right35, .right40, .right45, .right50, .right55, .right60, .right65, .right70, .right75, .right80, .right85, .right90, .right95, .right33, .right66 {
+  margin-left: 1%;
+  margin-right: 1%; }
+
+.alpha {
+  margin-left: 0; }
+
+.omega {
+  margin-right: 0; }
+
+.left5.alpha, .right5.alpha {
+  width: 4%; }
+
+.left10.alpha, .right10.alpha {
+  width: 9%; }
+
+.left15.alpha, .right15.alpha {
+  width: 14%; }
+
+.left20.alpha, .right20.alpha {
+  width: 19%; }
+
+.left25.alpha, .right25.alpha {
+  width: 24%; }
+
+.left30.alpha, .right30.alpha {
+  width: 29%; }
+
+.left35.alpha, .right35.alpha {
+  width: 34%; }
+
+.left40.alpha, .right40.alpha {
+  width: 39%; }
+
+.left45.alpha, .right45.alpha {
+  width: 44%; }
+
+.left50.alpha, .right50.alpha {
+  width: 49%; }
+
+.left55.alpha, .right55.alpha {
+  width: 54%; }
+
+.left60.alpha, .right60.alpha {
+  width: 59%; }
+
+.left65.alpha, .right65.alpha {
+  width: 64%; }
+
+.left70.alpha, .right70.alpha {
+  width: 69%; }
+
+.left75.alpha, .right75.alpha {
+  width: 74%; }
+
+.left80.alpha, .right80.alpha {
+  width: 79%; }
+
+.left85.alpha, .right85.alpha {
+  width: 84%; }
+
+.left90.alpha, .right90.alpha {
+  width: 89%; }
+
+.left95.alpha, .right95.alpha {
+  width: 94%; }
+
+.left33.alpha, .right33.alpha {
+  width: 32.33%; }
+
+.left66.alpha, .right66.alpha {
+  width: 65.66%; }
+
+.left5.omega, .right5.omega {
+  width: 4%; }
+
+.left10.omega, .right10.omega {
+  width: 9%; }
+
+.left15.omega, .right15.omega {
+  width: 14%; }
+
+.left20.omega, .right20.omega {
+  width: 19%; }
+
+.left25.omega, .right25.omega {
+  width: 24%; }
+
+.left30.omega, .right30.omega {
+  width: 29%; }
+
+.left35.omega, .right35.omega {
+  width: 34%; }
+
+.left40.omega, .right40.omega {
+  width: 39%; }
+
+.left45.omega, .right45.omega {
+  width: 44%; }
+
+.left50.omega, .right50.omega {
+  width: 49%; }
+
+.left55.omega, .right55.omega {
+  width: 54%; }
+
+.left60.omega, .right60.omega {
+  width: 59%; }
+
+.left65.omega, .right65.omega {
+  width: 64%; }
+
+.left70.omega, .right70.omega {
+  width: 69%; }
+
+.left75.omega, .right75.omega {
+  width: 74%; }
+
+.left80.omega, .right80.omega {
+  width: 79%; }
+
+.left85.omega, .right85.omega {
+  width: 84%; }
+
+.left90.omega, .right90.omega {
+  width: 89%; }
+
+.left95.omega, .right95.omega {
+  width: 94%; }
+
+.left33.omega, .right33.omega {
+  width: 32.33%; }
+
+.left66.omega, .right66.omega {
+  width: 65.66%; }
+
+.left5.alpha.omega, .right5.alpha.omega {
+  width: 5%; }
+
+.left10.alpha.omega, .right10.alpha.omega {
+  width: 10%; }
+
+.left15.alpha.omega, .right15.alpha.omega {
+  width: 15%; }
+
+.left20.alpha.omega, .right20.alpha.omega {
+  width: 20%; }
+
+.left25.alpha.omega, .right25.alpha.omega {
+  width: 25%; }
+
+.left30.alpha.omega, .right30.alpha.omega {
+  width: 30%; }
+
+.left35.alpha.omega, .right35.alpha.omega {
+  width: 35%; }
+
+.left40.alpha.omega, .right40.alpha.omega {
+  width: 40%; }
+
+.left45.alpha.omega, .right45.alpha.omega {
+  width: 45%; }
+
+.left50.alpha.omega, .right50.alpha.omega {
+  width: 50%; }
+
+.left55.alpha.omega, .right55.alpha.omega {
+  width: 55%; }
+
+.left60.alpha.omega, .right60.alpha.omega {
+  width: 60%; }
+
+.left65.alpha.omega, .right65.alpha.omega {
+  width: 65%; }
+
+.left70.alpha.omega, .right70.alpha.omega {
+  width: 70%; }
+
+.left75.alpha.omega, .right75.alpha.omega {
+  width: 75%; }
+
+.left80.alpha.omega, .right80.alpha.omega {
+  width: 80%; }
+
+.left85.alpha.omega, .right85.alpha.omega {
+  width: 85%; }
+
+.left90.alpha.omega, .right90.alpha.omega {
+  width: 90%; }
+
+.left95.alpha.omega, .right95.alpha.omega {
+  width: 95%; }
+
+.left33.alpha.omega, .right33.alpha.omega {
+  width: 33.33%; }
+
+.left66.alpha.omega, .right66.alpha.omega {
+  width: 66.66%; }
+
+.left5 img, .left10 img, .left15 img, .left20 img, .left25 img, .left30 img, .left35 img, .left40 img, .left45 img, .left50 img, .left55 img, .left60 img, .left65 img, .left70 img, .left75 img, .left80 img, .left85 img, .left90 img, .left95 img, .left33 img, .left66 img, .right5 img, .right10 img, .right15 img, .right20 img, .right25 img, .right30 img, .right35 img, .right40 img, .right45 img, .right50 img, .right55 img, .right60 img, .right65 img, .right70 img, .right75 img, .right80 img, .right85 img, .right90 img, .right95 img, .right33 img, .right66 img {
+  max-width: 100%; }
