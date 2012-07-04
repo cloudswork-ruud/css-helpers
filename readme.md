@@ -1,7 +1,20 @@
-CSS classes that I use.
+# CSS classes that I use.
 
-<h2>flexicss.css<h2>
-A responsive css layout system
+## Documentation
+_(Coming soon)_
 
-<h2>helpers.css<h2>
+## Examples
+_(Coming soon)_
+
+## Release History
+_(Nothing yet)_
+
+## License
+Copyright (c) 2012 Devin Dombrowski
+Licensed under the MIT, GPL licenses.
+
+## flexicss.css
+A responsive/flexible css layout system
+
+## helpers.css
 Some classes to perform common styling techniques
