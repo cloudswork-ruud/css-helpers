@@ -1,5 +1,3 @@
-# CSS classes that I use.
-
 ## Documentation
 _(Coming soon)_
 
@@ -13,8 +11,8 @@ _(Nothing yet)_
 Copyright (c) 2012 Devin Dombrowski
 Licensed under the MIT, GPL licenses.
 
-## flexicss.css
+### flexicss.css
 A responsive/flexible css layout system
 
-## helpers.css
+### helpers.css
 Some classes to perform common styling techniques
